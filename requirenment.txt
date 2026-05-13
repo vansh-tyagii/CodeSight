@@ -1,0 +1,10 @@
+fastapi 
+uvicorn 
+torch 
+transformers 
+numpy 
+pydantic 
+qdrant-client 
+rank_bm25 
+nltk 
+sentence-transformers
